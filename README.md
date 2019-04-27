@@ -1,2 +1,0 @@
-# firstToDoApp
-Created with CodeSandbox
